@@ -3,3 +3,7 @@
 <h4 align="center"> 
 	 🚀Concluído 🚀
 </h4>
+
+
+<p align="center">Para jogar user as setas direcionais do seu teclado</p>
+		
